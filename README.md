@@ -4,7 +4,7 @@
 
 Olá, meu nome é Igor Gabriel dos Santos, sou Técnico em Informática para a Internet pelo IFSP, e atualmente estou cursando Bacharelado em Sistemas da Informação na USP (EACH). Sou apaixonado por tecnologia, e pretendo trabalhar com Inteligência Artificial e Dados. Este é o meu repositório, e por aqui publicarei os meus principais projetos.
     
-
+---
 
 ### 📚 Linguagens e Tecnologias
 
